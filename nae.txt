@@ -1,5 +1,4 @@
 <?php
 $syed = 1;
-$my pc
-apna time ayega
+$wasif = 2;
 ?>
