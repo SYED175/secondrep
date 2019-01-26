@@ -1,4 +1,5 @@
 <?php
+$waseem = 0;
 $syed = 1;
 $wasif = 2;
 extra line
