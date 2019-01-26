@@ -1,3 +1,4 @@
 <?php
 $syed = 1;
+$wasif = 2;
 ?>
